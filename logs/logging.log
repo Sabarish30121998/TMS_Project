@@ -1,0 +1,3 @@
+2021-10-20 14:47:29 [DEBUG] [restartedMain] com.example.TMS.Security.JwtFilter --- Filter 'jwtFilter' configured for use
+2021-10-20 14:47:31 [INFO ] [restartedMain] com.example.TMS.TmsApplication --- Started TmsApplication in 14.332 seconds (JVM running for 16.266)
+2021-10-20 14:47:35 [TRACE] [http-nio-8080-exec-1] c.e.TMS.Controller.UserController --- Getting data using ID is  1
